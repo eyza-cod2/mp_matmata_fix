@@ -3,30 +3,56 @@
 The **mp_matmata_fix** map fixes several bugs in the original **mp_matmata** map for Call of Duty 2.
 
 ## Download
-- Actual version:
-	- 2022/10/07 - <b><a href="https://github.com/eyza-cod2/mp_matmata_fix/raw/main/mp_matmata_fix_v2.iwd">Matmata FIX v2</a></b>
-<br><br>
-- Previous versions:
- - 2022/07/28 - <b><a href="https://github.com/eyza-cod2/mp_matmata_fix/raw/6047eb2abed4ca255aefef3c49f95fbefc05cc0d/mp_matmata_fix_v1_test.iwd">Matmata FIX v1 test</a></b>
+- The map is part of the [zPAM3.33](https://github.com/eyza-cod2/zpam3) mappack - **[zpam_maps_v3.iwd](https://github.com/eyza-cod2/zpam3/raw/abbc16d244a820aa08372d4238cb53062f90ced0/zip/main/zpam_maps_v3.iwd)**
+- Change map on the server via command **/rcon map mp_matmata_fix**
 
-## Installation
-- Download <b><a href="https://github.com/eyza-cod2/mp_matmata_fix/raw/main/mp_matmata_fix_v2.iwd">Matmata FIX v2</a></b> and move it into main folder.
-- Change map on the server via command **/rcon map mp_matmata_fix_v2**
+## Changelog
+<details><summary>2023/08/30 - <b>Matmata FIX v3</b> <i>(click to open)</i></summary>
+<p>
 
+- fixed low skybox
+- added [12] Allies roof sandbags holes fixed
+- improved lean bug fix for sandbags
+- added support for aim trainer
+<br><br><br><br>
+</p>
+</details>
 
-- Notes:
-	- Final map name will be mp_matmata_fix
-	- Report bugs to **eyza** - discord: eyza#7930
+<details><summary>2022/10/07 - <b>Matmata FIX v2</b> <i>(click to open)</i></summary>
+<p>
+
+- Updated screenshots
+- [8] Possible stuck on vault over fixed
+- [9] Ladder fixed
+- [10] Allies MG sandbags lean bug fixed
+- [11] Allies roof sandbags lean bug fixed
+<br><br><br><br>
+</p>
+</details>
+
+<details><summary>2022/07/28 - <b>Matmata FIX v1</b> <i>(click to open)</i></summary>
+<p>
+
+- [1] Skybox elevated for better view from above
+- [2] Axis jeep stuck fixed
+- [3] Fox ladder - left side fixed
+- [4] Allies fox - side of ladder fixed
+- [5] Allies fox - side of ladder fixed
+- [6] Mid sandbags lean bug fixed
+- [7] Mid buildings window and door lean bug fixed
+<br><br><br><br>
+</p>
+</details>
 
 
 ## Credit
-**Fjozek** (discord: Fjozek#0625)<br>
+**Fjozek** (discord: fjozek)<br>
 The guy responsible for map changes
 
-**YctN** (discord: YctN#1140)<br>
+**YctN** (discord: yctn)<br>
 The guy who bring this "fixed maps" idea together + server provider
 
-**eyza** (discord: eyza#7930)<br>
+**eyza** (discord: eyza_)<br>
 Bug reporter
 
 
@@ -58,8 +84,11 @@ Bug reporter
 [9] Ladder fixed<br>
 <a href="/images/matmata_ladder_4.png"><img src="/images/matmata_ladder_4.png"/></a><br>
 
-[10] British MG sandbags lean bug fixed<br>
+[10] Allies MG sandbags lean bug fixed<br>
 <a href="/images/matmata_british_sandbags.png"><img src="/images/matmata_british_sandbags.png"/></a><br>
 
-[11] Allies roof sandbox lean bug fixed<br>
+[11] Allies roof sandbags lean bug fixed<br>
 <a href="/images/matmata_sandbags_roof.png"><img src="/images/matmata_sandbags_roof.png"/></a><br>
+
+[12] Allies roof sandbags holes fixed<br>
+<a href="/images/matmata_sandbags_holes.png"><img src="/images/matmata_sandbags_holes.png"/></a><br>
